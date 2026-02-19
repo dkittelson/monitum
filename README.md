@@ -1,4 +1,4 @@
-# Monitum: AI-Powered Wildlife Conservation Forecasting
+# Monitum: Wildlife Conservation
 
 Monitum is a machine learning project that identifies at-risk species and forecasts extinction threats over the next decade. By analyzing spatial data on species distributions, climate change, human pressure, and conservation protection, the system calculates a "Resilience Gap" to find "forgotten species"—those facing high vulnerability with inadequate protection. The ML models predict future IUCN Red List categories and identify conservation priority gaps.
 
